@@ -1,0 +1,18 @@
+1.To install-npm init playwright@latest
+2. To Create Necessary Folder structure-
+mkdir -p src/tests
+mkdir -p src/pages
+mkdir -p src/utils
+mkdir -p src/config
+mkdir -p src/api
+mkdir -p src/reporting
+mkdir -p src/logging
+mkdir -p src/data
+
+3. To install browser engingee-
+npx playwright install
+
+Set up enviroment variable.
+link- https://www.youtube.com/watch?v=9Hn6p8D62cc&list=PLrdJJVHfLoxUOuZt9As22ECOZky-mCyP-&index=7
+
+to set up env=set NODE_ENV=qa

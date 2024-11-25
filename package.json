@@ -1,0 +1,25 @@
+{
+  "name": "playWrightFrameWork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jislamtester/playWrightFrameWork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jislamtester/playWrightFrameWork/issues"
+  },
+  "homepage": "https://github.com/jislamtester/playWrightFrameWork#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
